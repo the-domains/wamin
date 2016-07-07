@@ -1,0 +1,14 @@
+layout_spectrum: 0.6475490175653249
+typography_spectrum: 0.20782337780110538
+color:
+  brandStrength: 0.9825130677781999
+  lightness: 0.49915180960670114
+  saturation: 0.8638082917314023
+  rhythmicContrast: 0.4521963836159557
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: wamin
